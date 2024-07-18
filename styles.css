@@ -1,0 +1,11 @@
+body {
+    color: white;
+    font-family: "Red Hat Display";
+    text-align: center;
+    background-color: #000000;
+background-image: url("https://www.transparenttextures.com/patterns/wide-rectangles.png");
+}
+
+.button {
+    margin-top: 20px;
+}
