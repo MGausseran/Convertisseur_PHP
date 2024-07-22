@@ -28,7 +28,7 @@ Placez le dossier du projet dans le répertoire racine de votre serveur web (par
 1. Démarrez votre serveur web.
 2. Ouvrez votre navigateur web et accédez à :
     ```
-    http://localhost/convertisseur-devises/index.php
+    http://localhost/convertisseur-devises/convertisseur.php
     ```
 3. Vous pouvez maintenant utiliser l'application pour convertir des montants en Euros vers d'autres devises.
 
